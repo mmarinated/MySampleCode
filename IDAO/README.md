@@ -1,0 +1,1 @@
+A part of code made by me during the IDAO http://idao.world/ (2-4 April 2018, Moscow).
