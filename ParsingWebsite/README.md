@@ -1,0 +1,1 @@
+returns 1) website for city from Wikipedia; 2) weather for city (from darksky.net)
